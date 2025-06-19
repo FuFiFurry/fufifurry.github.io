@@ -429,8 +429,8 @@ section .row span {
   height: 100vh;
   display: flex;
   align-items: center;
-  background: #0084ff;
-  background-image: url("../assets/background.png");
+  background: #004b91;
+  /*background-image: url("../assets/background.png");*/
   font-weight: 400;
   color: #fff;
   padding: 0rem 5.6rem;
@@ -653,7 +653,7 @@ section .row span {
   }
 }
 
-.diagonal-box {
+/*.diagonal-box {
     position: absolute;
     right: 35vw;
     bottom: -15vw;
@@ -673,4 +673,4 @@ section .row span {
     background-image: linear-gradient(45deg, #00305e, #003b72);
     transform: rotate(-65deg);
     z-index: -1;
-}
+}*/
